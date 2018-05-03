@@ -1,0 +1,7 @@
+E:\workspace for database\Digital Library\DAL\bin\Debug\DAL.dll
+E:\workspace for database\Digital Library\DAL\bin\Debug\DAL.pdb
+E:\workspace for database\Digital Library\DAL\bin\Debug\Entity.dll
+E:\workspace for database\Digital Library\DAL\bin\Debug\Entity.pdb
+E:\workspace for database\Digital Library\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\workspace for database\Digital Library\DAL\obj\Debug\DAL.dll
+E:\workspace for database\Digital Library\DAL\obj\Debug\DAL.pdb

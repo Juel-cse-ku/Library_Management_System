@@ -1,0 +1,5 @@
+E:\workspace for database\Digital Library\Entity\bin\Debug\Entity.dll
+E:\workspace for database\Digital Library\Entity\bin\Debug\Entity.pdb
+E:\workspace for database\Digital Library\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\workspace for database\Digital Library\Entity\obj\Debug\Entity.dll
+E:\workspace for database\Digital Library\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,1 @@
+﻿select avg(Quantity) from tbl_Entry_new_book where Category = 'C programing'

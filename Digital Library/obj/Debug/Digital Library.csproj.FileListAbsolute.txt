@@ -1,0 +1,28 @@
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\Digital Library.exe.config
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\Digital Library.exe
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\Digital Library.pdb
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\BL.dll
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\Entity.dll
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\DAL.dll
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\BL.pdb
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\Entity.pdb
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\DAL.pdb
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital Library.csprojResolveAssemblyReference.cache
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital_Library.Home_form.resources
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital_Library.Login_form.resources
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital_Library.Properties.Resources.resources
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital_Library.Register_form.resources
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital Library.csproj.GenerateResource.Cache
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital Library.exe
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital Library.pdb
+E:\workspace for database\Digital Library\Digital Library\bin\Debug\CalendarClock.dll
+E:\workspace for database\Digital Library\Digital Library\obj\Debug\Digital_Library.Home_Entry_New_Book.resources
+I:\Work space\workspace for database\Digital Library\Digital Library\bin\Debug\Digital Library.exe.config
+I:\Work space\workspace for database\Digital Library\Digital Library\obj\Debug\Digital Library.exe
+I:\Work space\workspace for database\Digital Library\Digital Library\obj\Debug\Digital Library.pdb
+C:\Users\Juel\Desktop\Digital Library\Digital Library\bin\Debug\Digital Library.exe.config
+C:\Users\Juel\Desktop\Digital Library\Digital Library\obj\Debug\Digital Library.exe
+C:\Users\Juel\Desktop\Digital Library\Digital Library\obj\Debug\Digital Library.pdb
+E:\Academic\3rd Year 1st Term\CSE-3102 (Database Systems Project or Fieldwork)\Digital Library\Digital Library\bin\Debug\Digital Library.exe.config
+E:\Academic\3rd Year 1st Term\CSE-3102 (Database Systems Project or Fieldwork)\Digital Library\Digital Library\obj\Debug\Digital Library.exe
+E:\Academic\3rd Year 1st Term\CSE-3102 (Database Systems Project or Fieldwork)\Digital Library\Digital Library\obj\Debug\Digital Library.pdb
